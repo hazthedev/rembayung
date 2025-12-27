@@ -10,6 +10,10 @@ export const metadata: Metadata = {
   title: 'Rembayung - Where Kampung Heritage Meets Modern Kuala Lumpur',
   description: 'Experience authentic Malay cuisine in Kampung Baru, Kuala Lumpur. Khairul Aming\'s RM4 million restaurant venture bringing traditional kampung flavors to the city.',
   keywords: 'Khairul Aming, Rembayung, Malay restaurant, Kampung Baru, Kuala Lumpur, authentic Malaysian food, kampung cuisine',
+  icons: {
+    icon: '/icon.svg',
+    apple: '/apple-icon.svg',
+  },
   openGraph: {
     title: 'Rembayung - Authentic Kampung Cuisine in KL',
     description: 'Experience authentic Malay cuisine in Kampung Baru, Kuala Lumpur. Reservation-only restaurant by Khairul Aming.',

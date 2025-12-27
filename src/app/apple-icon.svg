@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D97B3A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B85A3A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="40" fill="url(#grad)"/>
+  <!-- Stylized bowl/plate representing food -->
+  <ellipse cx="90" cy="100" rx="45" ry="20" fill="none" stroke="#F4EDE3" stroke-width="5"/>
+  <path d="M 45 100 Q 45 70 90 70 Q 135 70 135 100" fill="none" stroke="#F4EDE3" stroke-width="5" stroke-linecap="round"/>
+  <!-- Steam/aroma lines -->
+  <path d="M 68 52 Q 72 47 68 42" fill="none" stroke="#F4EDE3" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+  <path d="M 90 48 Q 94 43 90 38" fill="none" stroke="#F4EDE3" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <path d="M 112 52 Q 116 47 112 42" fill="none" stroke="#F4EDE3" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+</svg>
